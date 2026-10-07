@@ -1,2 +1,3 @@
 <?php
+// PHP Info
 phpinfo();
