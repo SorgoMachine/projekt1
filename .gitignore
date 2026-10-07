@@ -1,0 +1,6 @@
+/git-tools/
+/vendor/
+/config/
+.env
+config.local.php
+*.log
